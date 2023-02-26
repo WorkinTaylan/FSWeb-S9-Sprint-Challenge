@@ -50,10 +50,10 @@ Bu challengeda bir [WIDGET](https://advanced-react-grid.herokuapp.com/) için bi
 - Kodlarınızı `frontend/components/AppFunctional.js` dosyasına yazın.
 - "AppFunctional.js" tarafından sunulan bileşen, stateful olan işlevsel bir bileşen olmalıdır.
 - Bileşenleriniz tarafından üretilen DOM, prototipteki DOM ile tam olarak eşleşmelidir:
-  - HTML öğelerinin hiyerarşisi, idleri, class adları vb. aynı olmalıdır..
-  - Geçerli kare, büyük bir B ve "active" class adıyla işaretlenmiştir. 
-  - Sayfada görüntülenen submit başarısı ve hata mesajları API'den gelir.(Network tabını inceleyin).
-  - Frontend form doğrulama eklemenize gerek yok.
+- HTML öğelerinin hiyerarşisi, idleri, class adları vb. aynı olmalıdır..
+- Geçerli kare, büyük bir B ve "active" class adıyla işaretlenmiştir. 
+- Sayfada görüntülenen submit başarısı ve hata mesajları API'den gelir.(Network tabını inceleyin).
+- Frontend form doğrulama eklemenize gerek yok.
 - Gridin her bir karesinin koordinatları aşağıdaki gibidir:
 
   ```js
